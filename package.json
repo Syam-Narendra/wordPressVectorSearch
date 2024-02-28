@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "@google-cloud/storage": "^7.7.0",
+    "@huggingface/inference": "^2.6.4",
+    "@langchain/community": "^0.0.33",
+    "@xenova/transformers": "^2.15.1",
+    "cheerio": "^1.0.0-rc.12",
+    "deno": "^0.1.1",
+    "dotenv": "^16.4.5",
+    "lancedb": "^0.0.1",
+    "langchain": "^0.1.23",
+    "vectordb": "^0.4.11"
+  },
+  "type": "module"
+}
